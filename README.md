@@ -24,6 +24,8 @@ Each dataset was cleaned and prepared to ensure compatibility for analysis.
 
 ## Analysis and Findings
 
+Presentation can be found at: https://docs.google.com/presentation/d/1K7BxNxXMc4oSLgfDFzIrVxpB9zMQ5V5ky_1AicE9YLw/edit?usp=sharing
+
 ### 1. Air Quality and Asthma Hospitalizations (USA)
 - **Objective**: To explore the impact of air quality on asthma-related hospitalizations within the United States.
 - **Methodology**: Merged PM2.5 data with asthma hospitalization rates, focusing on different states over multiple years.
