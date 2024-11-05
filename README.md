@@ -1,7 +1,8 @@
 # Air Quality's Effect on Quality of Life
 This project investigates the relationship between air quality around the world and its impact on asthma prevalence and other parameters to describe quality of life.
 
-## Data Sources
+
+### Data Sources
 
 This project relies on various datasets sourced from reputable organizations and platforms to analyze the impact of air quality on asthma prevalence and quality of life indicators worldwide. The data sources used in this analysis include:
 
